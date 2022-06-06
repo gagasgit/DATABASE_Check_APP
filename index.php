@@ -1,4 +1,4 @@
-<?php include "dbinfo.inc"; ?>
+<?php include "../inc/dbinfo.inc"; ?>
 <html>
 <body>
 <h3 style="text-align: center;"><span style="color: #008000;">Develop infrastructure in AWS, using IaC approach with Terraform</span></h3>
