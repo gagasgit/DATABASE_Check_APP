@@ -21,6 +21,7 @@
 </tr>
 </tbody>
   </table></center>
+<h4><span style="color: #333333;">Server PrivateIP:$myip</span></h4>
 <?php
 
   /* Connect to MySQL and select the database. */
